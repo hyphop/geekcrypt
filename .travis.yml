@@ -1,4 +1,4 @@
 language: sh
 before_install: sudo apt-get install inkscape
-script:  ./tools/test
+script:  ./tools/test && ./geekcrypt.make
 
