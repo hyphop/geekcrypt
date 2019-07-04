@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/hyphop/geekcrypt.svg?branch=master)](https://travis-ci.com/hyphop/geekcrypt)
+
 # GeekCrypt - 1st real opensource T-shirt
 
 GeekCrypt - coders fun art project ! 
@@ -64,7 +66,7 @@ Fork me on git*, and make your version of your unique opensource T-shirt.
 + [pics/geekcrypt.1.example.png](pics/geekcrypt.1.example.png) - front side example
 + [pics/geekcrypt.2.example.pn](pics/geekcrypt.2.example.png) - back side example
 + [pics/geekcrypt.example.png](pics/geekcrypt.example.png) - both side example
-+ [pics](pics) - other files
++ [pics](pics) - show all files
 
 ### files
 

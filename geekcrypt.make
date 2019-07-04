@@ -16,8 +16,8 @@ FANCY=1 ./tools/txt2svg ./geekcrypt > pics/geekcrypt.2.svg
 for i in pics/geekcrypt.?.svg; do
      inkscape -D -T -d $DPI -i TEXT -j -e "${i%.*}.png" "$i"
      inkscape -D -T -d $DPI -i TEXT -j -E "${i%.*}.eps" "$i"
-     inkscape -D -T -d $DPI -i TEXT -j -m "${i%.*}.wmf" "$i"
-     inkscape -D -T -d $DPI -i TEXT -j -M "${i%.*}.emf" "$i"
+#     inkscape -D -T -d $DPI -i TEXT -j -m "${i%.*}.wmf" "$i"
+#     inkscape -D -T -d $DPI -i TEXT -j -M "${i%.*}.emf" "$i"
 done
 
 #    -E "${i%.*}.eps" \
