@@ -69,7 +69,7 @@ Fork me on git*, and make your version of your unique opensource T-shirt.
 ### files
 
 + [text](text) - text files 
-+ [text/front.txt](text/front.txt) - input original plain text file ( 8 lines x 16 rows  = 128 bytes ) - sure u can chouse any size
++ [text/front.txt](text/front.txt) - (non exist there) input original plain text file ( 8 lines x 16 rows  = 128 bytes ) - sure u can chouse any size
 + [geekcrypt](geekcrypt) - encrypt / decrypt tool
 + [geekcrypt.make](geekcrypt.make) - make all shell script
 + [geekcrypt.decrypt](geekcrypt.decrypt) - decrypt script
