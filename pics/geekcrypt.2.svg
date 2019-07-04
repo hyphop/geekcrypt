@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xml:space="preserve">
+<text x="0" y="0" font-size="15" id="TEXT" style="
+    font-style:normal;
+    font-variant:normal;
+    font-weight:normal;
+    font-stretch:normal;
+    font-family:'Bitstream Vera Sans Mono';
+    stroke-width:0.15955487;
+    fill:#66ff66;
+" dy="0">
+<tspan x="0" dy="18" style="fill: #666666;">#!/usr/bin/env      perl</tspan>
+<tspan x="0" dy="18" style="fill: #666666;"># its geekcrypt fork me!</tspan>
+<tspan x="0" dy="18" style="fill: #666666;"># 1st opensource T-Shirt</tspan>
+<tspan x="0" dy="18" style="fill: #666666;"># &lt; https://git.io/fj6Cw</tspan>
+<tspan x="0" dy="18" >@_ = qw/OIZEASbTBG 0-9/;</tspan>
+<tspan x="0" dy="18" >$_[$_]= &quot;$_[$_]\L$_[$_]&quot;</tspan>
+<tspan x="0" dy="18" >for 0..1;my$u=$ENV&#123;c&#125;*1;</tspan>
+<tspan x="0" dy="18" >shift and @_= reverse @_</tspan>
+<tspan x="0" dy="18" >if $ARGV[0]=~/-r/;sub r&#123;</tspan>
+<tspan x="0" dy="18" >$u&gt;1?$i++%2:$u&#125;while(&lt;&gt;)</tspan>
+<tspan x="0" dy="18" >&#123; eval &quot;tr/$_[0]/$_[1]/&quot;</tspan>
+<tspan x="0" dy="18" >;s/(\w)/r?uc$1:lc$1/sexg</tspan>
+<tspan x="0" dy="18" >; print &#125;   ## hyphop ##</tspan>
+<tspan x="0" dy="18" style="fill: #666666;">__END__  geekcrypt USAGE</tspan>
+<tspan x="0" dy="18" style="fill: #666666;">./geekcrypt PLAIN_TEXT &gt;</tspan>
+<tspan x="0" dy="18" style="fill: #666666;">./geekcrypt -r &lt; CRYPTED</tspan>
+</text>
+</svg>

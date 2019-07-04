@@ -1,0 +1,11 @@
+#!/bin/sh
+
+## hyphop ##
+
+cat text/crypt.txt
+
+echo
+
+./geekcrypt -r text/crypt.txt | tee text/front.txt
+
+

@@ -1,0 +1,6 @@
+#!/bin/sh
+
+## hyphop ##
+
+echo hi | ./geekcrypt | ./geekcrypt -r | grep hi && echo ok
+

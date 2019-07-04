@@ -1,0 +1,114 @@
+#!/usr/bin/perl
+
+## hyphop ##
+
+## simple txt 2 svg
+
+our $FONT_SIZE=15;
+our $FONT_LINE=1.2;
+our $FONT_STYLE='normal';
+our $FONT_VARIANT='normal';
+our $FONT_WEIGHT='normal';
+our $FONT_STRETCH='normal';
+our $FONT_FAMILY="Bitstream Vera Sans Mono";
+our $FONT_COLOR= $ENV{C}//"#000000";
+
+sub style { qq{style="
+    font-style:$FONT_STYLE;
+    font-variant:$FONT_VARIANT;
+    font-weight:$FONT_WEIGHT;
+    font-stretch:$FONT_STRETCH;
+    font-family:'$FONT_FAMILY';
+    stroke-width:0.15955487;
+    fill:$FONT_COLOR;
+"};
+}
+
+sub style2 {
+    my $style='';
+    for ( qq/style variant weight stretch family / ) {
+	$style .= "font-$_: $_[0]->{$_};" if defined $_[0]->{$_}
+    }
+
+    for ( qq/fill/ ) {
+	$style .= "$_: $_[0]->{$_};" if defined $_[0]->{$_}
+    }
+    return qq{style="$style"} if $style;
+    return ""
+}
+
+our $X=0;
+our $Y=0;
+our $D=$ENV{D}//int($FONT_SIZE*$FONT_LINE);
+our $FANCY = $ENV{FANCY};
+
+
+#<text x="$X" y="$Y" font-size="$FONT_SIZE" font-family="$FONT_FAMILY" dy="0"> 
+
+our $END="";
+our $HEADERS;
+
+while (<>){
+
+    chomp;
+    my $style;
+
+    $END=1 if /^__END/;
+
+    if ( /^#\!/ ) {
+	warn "[i] code mode\n";
+	$FONT_COLOR="#66ff66";
+    }
+
+    if ($FANCY){
+	$style->{fill} = "#666666" if /^#/ or $END;
+    }
+
+    unless ( $HEADERS++ ) {
+print qq{<svg xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xml:space="preserve">
+<text x="$X" y="$Y" font-size="$FONT_SIZE" id="TEXT" }. &style . qq{ dy="0">
+};
+
+    }
+    print qq{<tspan x="$X" dy="$D" } 
+    . style2($style) . ">".
+    &html::escape_str($_) . "</tspan>\n"
+}
+
+print qq{</text>
+</svg>
+};
+
+package html;
+
+BEGIN {
+    our %escape_table = qw(
+      & &amp;
+      > &gt;
+      < &lt;
+      " &quot;
+      ' &#39;
+      ` &#96;
+      { &#123;
+      } &#125;
+    );
+
+    our %ent = (
+        qw/ amp & gt > lt < quot " apos '/,    #'"
+    # add extra entity there
+        #
+    );
+
+    our $escape_symbols = join "", keys %escape_table;
+    our $escape_tags    = '<>';
+    our $escape_attr    = "\"\'";
+}
+
+sub escape_str($) {
+    return '' unless defined $_[0];
+    my $str = $_[0];
+    $str =~ s/([$escape_symbols])/$escape_table{$1}/ge;
+    return $str;
+}

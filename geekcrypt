@@ -1,0 +1,16 @@
+#!/usr/bin/env      perl
+# its geekcrypt fork me!
+# 1st opensource T-Shirt
+# < https://git.io/fj6Cw
+@_ = qw/OIZEASbTBG 0-9/;
+$_[$_]= "$_[$_]\L$_[$_]"
+for 0..1;my$u=$ENV{c}*1;
+shift and @_= reverse @_
+if $ARGV[0]=~/-r/;sub r{
+$u>1?$i++%2:$u}while(<>)
+{ eval "tr/$_[0]/$_[1]/"
+;s/(\w)/r?uc$1:lc$1/sexg
+; print }   ## hyphop ##
+__END__  geekcrypt USAGE
+./geekcrypt PLAIN_TEXT >
+./geekcrypt -r < CRYPTED

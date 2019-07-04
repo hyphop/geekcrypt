@@ -1,0 +1,8 @@
+text/front.txt
+pics/*.eps
+pics/*.wmf
+pics/*.emf
+,tmp/*
+log
+log/*
+rel
