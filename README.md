@@ -1,11 +1,11 @@
 # GeekCrypt - 1st real opensource T-shirt
 
-GeekCrypt - coders fun art project !
-its a simple brainfuck example and usual fun 4 geeks!
-this 400 bytes - its a first opensource T-shirt code!
-its not a sucks like other! not like just stupid texts like: admin, root@localhost, 127.0.0.1, opensoure, linux ....
-its a **FIRST REAL OPENSOURCE T-SHIRT**
-
+GeekCrypt - coders fun art project ! 
+its a simple brainfuck example and usual fun 4 geeks! 
+Fully opensource project! used only opensource tools and apps too!
+This 400 bytes - its a first opensource T-shirt code!
+Its not a sucks like other! not like just stupid texts like: admin, root@localhost, 127.0.0.1, opensoure, linux ....
+Its a **FIRST REAL OPENSOURCE T-SHIRT**
 
 ## Art
 
