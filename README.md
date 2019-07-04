@@ -45,7 +45,7 @@ its very easy - just a `echo "its my unique text" | ./geekcrypt`, output this
 
 Fork me on git*, and make your version of your unique opensource T-shirt.
 
-## how-to build opensource T-shirt from sources
+## how-to build opensource T-shirt from a scratch
 
     git clone https://github.com/hyphop/geekcrypt.git
     cd geekcrypt
