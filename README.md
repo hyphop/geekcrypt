@@ -5,7 +5,8 @@ its a simple brainfuck example and usual fun 4 geeks!
 Fully opensource project! used only opensource tools and apps too!
 This 400 bytes - its a first opensource T-shirt code!
 Its not a sucks like other! not like just stupid texts like: admin, root@localhost, 127.0.0.1, opensoure, linux ....
-Its a **FIRST REAL OPENSOURCE T-SHIRT**, read more about [how-to build T-shirt from a scratch!](#how-to-build-opensource-t-shirt-from-sources)
+Its a **FIRST REAL OPENSOURCE T-SHIRT**, read more about
+[how-to build T-shirt from a scratch!](#how-to-build-opensource-t-shirt-from-a-scratch)
 
 ## Art
 
