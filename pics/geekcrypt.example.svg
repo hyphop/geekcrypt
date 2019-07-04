@@ -42,13 +42,13 @@
      inkscape:window-height="1021"
      id="namedview20"
      showgrid="false"
-     inkscape:zoom="0.64611098"
-     inkscape:cx="690.05876"
-     inkscape:cy="487.77211"
+     inkscape:zoom="0.7629363"
+     inkscape:cx="564.33702"
+     inkscape:cy="-20.827339"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g903"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -65,47 +65,6 @@
        height="193.56682"
        x="63.364868"
        y="132.38847" />
-    <image
-       sodipodi:absref="/mnt/temp/githup/hyphop/geekcrypt/pics/no-print.gif"
-       xlink:href="no-print.gif"
-       width="189.59451"
-       height="189.59451"
-       preserveAspectRatio="none"
-       id="image871"
-       x="63.364868"
-       y="133.51735" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#image871"
-       id="use889"
-       transform="translate(219.33456)"
-       width="100%"
-       height="100%" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:21.07259178px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221"
-       x="-309.52399"
-       y="91.480476"
-       id="text907"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         id="tspan905"
-         x="-309.52399"
-         y="91.480476"
-         style="fill:#ff0000;stroke-width:0.28222221">front side</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:21.07259178px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221"
-       x="209.7117"
-       y="-445.9064"
-       id="text907-3"
-       transform="rotate(90)"><tspan
-         sodipodi:role="line"
-         id="tspan905-6"
-         x="209.7117"
-         y="-445.9064"
-         style="fill:#ff0000;stroke-width:0.28222221">back side</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -117,8 +76,190 @@
      inkscape:label="text"
      transform="translate(-62.800422,-132.46205)">
     <g
+       id="g904"
+       transform="matrix(0.90618526,0,0,0.90618526,25.126346,16.903723)">
+      <image
+         sodipodi:absref="/mnt/temp/githup/hyphop/geekcrypt/pics/no-print.gif"
+         xlink:href="no-print.gif"
+         transform="translate(-4.7834678e-7,-1.0631109e-6)"
+         width="189.59451"
+         height="189.59451"
+         preserveAspectRatio="none"
+         id="image871"
+         x="63.364868"
+         y="133.51735" />
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(219.33456,-1.0631109e-6)"
+         id="use889"
+         xlink:href="#image871"
+         y="0"
+         x="0" />
+      <text
+         transform="rotate(-90,-7.7072881e-7,-2.9238203e-7)"
+         id="text907"
+         y="91.480476"
+         x="-309.52399"
+         style="font-style:normal;font-weight:normal;font-size:21.07259178px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221"
+         xml:space="preserve"><tspan
+           style="fill:#ff0000;stroke-width:0.28222221"
+           y="91.480476"
+           x="-309.52399"
+           id="tspan905"
+           sodipodi:role="line">front side</tspan></text>
+      <text
+         transform="rotate(90,2.9238204e-7,-7.7072881e-7)"
+         id="text907-3"
+         y="-445.9064"
+         x="209.7117"
+         style="font-style:normal;font-weight:normal;font-size:21.07259178px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221"
+         xml:space="preserve"><tspan
+           style="fill:#ff0000;stroke-width:0.28222221"
+           y="-445.9064"
+           x="209.7117"
+           id="tspan905-6"
+           sodipodi:role="line">back side</tspan></text>
+      <text
+         x="124.10011"
+         y="172.99754"
+         font-size="15"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.04456425px;font-family:'Bitstream Vera Sans Mono';fill:#ffffff;stroke-width:0.08556996"
+         dy="0"
+         id="text1004">
+        <tspan
+           style="stroke-width:0.08556996"
+           x="124.10011"
+           dy="9.6534767"
+           id="tspan988">1F y0u C4N r34D</tspan>
+        <tspan
+           style="stroke-width:0.08556996"
+           x="124.10011"
+           dy="9.6534767"
+           id="tspan990">7H15. y0u H4V3</tspan>
+        <tspan
+           style="stroke-width:0.08556996"
+           x="124.10011"
+           dy="9.6534767"
+           id="tspan992">4 933K 6R41n5!</tspan>
+        <tspan
+           style="stroke-width:0.08556996"
+           x="124.10011"
+           dy="9.6534767"
+           id="tspan994">pL3453 cH3Ck My</tspan>
+        <tspan
+           style="stroke-width:0.08556996"
+           x="124.10011"
+           dy="9.6534767"
+           id="tspan996">4n07H3R 51d3 !</tspan>
+        <tspan
+           style="stroke-width:0.08556996"
+           x="124.10011"
+           dy="9.6534767"
+           id="tspan998">7H15 15 460U7</tspan>
+        <tspan
+           style="stroke-width:0.08556996"
+           x="124.10011"
+           dy="9.6534767"
+           id="tspan1000">0uR 0P3N50uRc3</tspan>
+        <tspan
+           style="stroke-width:0.08556996"
+           x="124.10011"
+           dy="9.6534767"
+           id="tspan1002">7-5h1r7 c0d3 ;)</tspan>
+      </text>
+      <text
+         x="345.496"
+         y="157.8716"
+         font-size="15"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.82901812px;font-family:'Bitstream Vera Sans Mono';fill:#66ff66;stroke-width:0.05136622"
+         dy="0"
+         id="text1132">
+        <tspan
+           x="345.496"
+           dy="5.7948213"
+           style="fill:#666666;stroke-width:0.05136622"
+           id="tspan1100">#!/usr/bin/env perl</tspan>
+        <tspan
+           x="345.496"
+           dy="5.7948213"
+           style="fill:#666666;stroke-width:0.05136622"
+           id="tspan1102"># its geekcrypt fork me!</tspan>
+        <tspan
+           x="345.496"
+           dy="5.7948213"
+           style="fill:#666666;stroke-width:0.05136622"
+           id="tspan1104"># 1st opensource T-Shirt</tspan>
+        <tspan
+           x="345.496"
+           dy="5.7948213"
+           style="fill:#666666;stroke-width:0.05136622"
+           id="tspan1106"># &lt; https://git.io/fj6Cw</tspan>
+        <tspan
+           style="stroke-width:0.05136622"
+           x="345.496"
+           dy="5.7948213"
+           id="tspan1108">@_ = qw/OIZEASbTBG 0-9/;</tspan>
+        <tspan
+           style="stroke-width:0.05136622"
+           x="345.496"
+           dy="5.7948213"
+           id="tspan1110">$_[$_]= &quot;$_[$_]\L$_[$_]&quot;</tspan>
+        <tspan
+           style="stroke-width:0.05136622"
+           x="345.496"
+           dy="5.7948213"
+           id="tspan1112">for 0..1;my$u=$ENV{c}*1;</tspan>
+        <tspan
+           style="stroke-width:0.05136622"
+           x="345.496"
+           dy="5.7948213"
+           id="tspan1114">shift and @_= reverse @_</tspan>
+        <tspan
+           style="stroke-width:0.05136622"
+           x="345.496"
+           dy="5.7948213"
+           id="tspan1116">if $ARGV[0]=~/-r/;sub r{</tspan>
+        <tspan
+           style="stroke-width:0.05136622"
+           x="345.496"
+           dy="5.7948213"
+           id="tspan1118">$u&gt;1?$i++%2:$u}while(&lt;&gt;)</tspan>
+        <tspan
+           style="stroke-width:0.05136622"
+           x="345.496"
+           dy="5.7948213"
+           id="tspan1120">{ eval &quot;tr/$_[0]/$_[1]/&quot;</tspan>
+        <tspan
+           style="stroke-width:0.05136622"
+           x="345.496"
+           dy="5.7948213"
+           id="tspan1122">;s/(\w)/r?uc$1:lc$1/sexg</tspan>
+        <tspan
+           style="stroke-width:0.05136622"
+           x="345.496"
+           dy="5.7948213"
+           id="tspan1124">; print } ## hyphop ##</tspan>
+        <tspan
+           x="345.496"
+           dy="5.7948213"
+           style="fill:#666666;stroke-width:0.05136622"
+           id="tspan1126">__END__ geekcrypt USAGE</tspan>
+        <tspan
+           x="345.496"
+           dy="5.7948213"
+           style="fill:#666666;stroke-width:0.05136622"
+           id="tspan1128">./geekcrypt PLAIN_TEXT &gt;</tspan>
+        <tspan
+           x="345.496"
+           dy="5.7948213"
+           style="fill:#666666;stroke-width:0.05136622"
+           id="tspan1130">./geekcrypt -r &lt; CRYPTED</tspan>
+      </text>
+    </g>
+    <g
        id="g903"
-       transform="translate(-0.26692264)">
+       transform="matrix(0.81779377,0,0,0.81779377,49.744025,52.802373)">
       <g
          transform="matrix(0.04833617,0,0,0.04833617,243.92791,191.69231)"
          id="g1009">
@@ -137,161 +278,46 @@
       </g>
       <text
          id="text856"
-         y="259.99759"
+         y="253.78571"
          x="268.08359"
          style="font-style:normal;font-weight:normal;font-size:13.04856396px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17475756"
          xml:space="preserve"><tspan
            id="tspan858"
-           style="text-align:center;text-anchor:middle;stroke-width:0.17475756"
-           y="259.99759"
+           style="line-height:0;text-align:center;text-anchor:middle;stroke-width:0.17475756"
+           y="253.78571"
            x="268.08359"
            sodipodi:role="line">geek-style</tspan><tspan
            id="tspan860"
-           style="text-align:center;text-anchor:middle;stroke-width:0.17475756"
-           y="276.30829"
+           style="line-height:0;text-align:center;text-anchor:middle;stroke-width:0.17475756"
+           y="270.09641"
            x="268.08359"
            sodipodi:role="line">open-source</tspan><tspan
            id="tspan862"
-           style="text-align:center;text-anchor:middle;stroke-width:0.17475756"
-           y="292.61899"
+           style="line-height:0;text-align:center;text-anchor:middle;stroke-width:0.17475756"
+           y="286.4071"
            x="268.08359"
-           sodipodi:role="line">T-shirt</tspan></text>
+           sodipodi:role="line">T-shirt</tspan><tspan
+           style="line-height:0;text-align:center;text-anchor:middle;stroke-width:0.17475756"
+           y="302.71783"
+           x="268.08359"
+           sodipodi:role="line"
+           id="tspan856">from a scratch</tspan><tspan
+           style="line-height:0;text-align:center;text-anchor:middle;stroke-width:0.17475756"
+           y="319.02853"
+           x="268.08359"
+           sodipodi:role="line"
+           id="tspan859" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:16.39862633px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.21962447"
+         x="115.6271"
+         y="329.02057"
+         id="text863"><tspan
+           sodipodi:role="line"
+           id="tspan861"
+           x="115.6271"
+           y="329.02057"
+           style="fill:#b3b3b3;stroke-width:0.21962447">https://github.com/hyphop/geekcrypt</tspan></text>
     </g>
-    <text
-       id="text1004"
-       dy="0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.04456425px;font-family:'Bitstream Vera Sans Mono';fill:#ffffff;stroke-width:0.08556996"
-       font-size="15"
-       y="172.99754"
-       x="124.10011">
-      <tspan
-         id="tspan988"
-         dy="9.6534767"
-         x="124.10011"
-         style="stroke-width:0.08556996">1F y0u C4N r34D</tspan>
-      <tspan
-         id="tspan990"
-         dy="9.6534767"
-         x="124.10011"
-         style="stroke-width:0.08556996">7H15. y0u H4V3</tspan>
-      <tspan
-         id="tspan992"
-         dy="9.6534767"
-         x="124.10011"
-         style="stroke-width:0.08556996">4 933K 6R41n5!</tspan>
-      <tspan
-         id="tspan994"
-         dy="9.6534767"
-         x="124.10011"
-         style="stroke-width:0.08556996">pL3453 cH3Ck My</tspan>
-      <tspan
-         id="tspan996"
-         dy="9.6534767"
-         x="124.10011"
-         style="stroke-width:0.08556996">4n07H3R 51d3 !</tspan>
-      <tspan
-         id="tspan998"
-         dy="9.6534767"
-         x="124.10011"
-         style="stroke-width:0.08556996">7H15 15 460U7</tspan>
-      <tspan
-         id="tspan1000"
-         dy="9.6534767"
-         x="124.10011"
-         style="stroke-width:0.08556996">0uR 0P3N50uRc3</tspan>
-      <tspan
-         id="tspan1002"
-         dy="9.6534767"
-         x="124.10011"
-         style="stroke-width:0.08556996">7-5h1r7 c0d3 ;)</tspan>
-    </text>
-    <text
-       id="text1132"
-       dy="0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.82901812px;font-family:'Bitstream Vera Sans Mono';fill:#66ff66;stroke-width:0.05136622"
-       font-size="15"
-       y="157.8716"
-       x="345.496">
-      <tspan
-         id="tspan1100"
-         style="fill:#666666;stroke-width:0.05136622"
-         dy="5.7948213"
-         x="345.496">#!/usr/bin/env perl</tspan>
-      <tspan
-         id="tspan1102"
-         style="fill:#666666;stroke-width:0.05136622"
-         dy="5.7948213"
-         x="345.496"># its geekcrypt fork me!</tspan>
-      <tspan
-         id="tspan1104"
-         style="fill:#666666;stroke-width:0.05136622"
-         dy="5.7948213"
-         x="345.496"># 1st opensource T-Shirt</tspan>
-      <tspan
-         id="tspan1106"
-         style="fill:#666666;stroke-width:0.05136622"
-         dy="5.7948213"
-         x="345.496"># &lt; https://git.io/fj6Cw</tspan>
-      <tspan
-         id="tspan1108"
-         dy="5.7948213"
-         x="345.496"
-         style="stroke-width:0.05136622">@_ = qw/OIZEASbTBG 0-9/;</tspan>
-      <tspan
-         id="tspan1110"
-         dy="5.7948213"
-         x="345.496"
-         style="stroke-width:0.05136622">$_[$_]= &quot;$_[$_]\L$_[$_]&quot;</tspan>
-      <tspan
-         id="tspan1112"
-         dy="5.7948213"
-         x="345.496"
-         style="stroke-width:0.05136622">for 0..1;my$u=$ENV{c}*1;</tspan>
-      <tspan
-         id="tspan1114"
-         dy="5.7948213"
-         x="345.496"
-         style="stroke-width:0.05136622">shift and @_= reverse @_</tspan>
-      <tspan
-         id="tspan1116"
-         dy="5.7948213"
-         x="345.496"
-         style="stroke-width:0.05136622">if $ARGV[0]=~/-r/;sub r{</tspan>
-      <tspan
-         id="tspan1118"
-         dy="5.7948213"
-         x="345.496"
-         style="stroke-width:0.05136622">$u&gt;1?$i++%2:$u}while(&lt;&gt;)</tspan>
-      <tspan
-         id="tspan1120"
-         dy="5.7948213"
-         x="345.496"
-         style="stroke-width:0.05136622">{ eval &quot;tr/$_[0]/$_[1]/&quot;</tspan>
-      <tspan
-         id="tspan1122"
-         dy="5.7948213"
-         x="345.496"
-         style="stroke-width:0.05136622">;s/(\w)/r?uc$1:lc$1/sexg</tspan>
-      <tspan
-         id="tspan1124"
-         dy="5.7948213"
-         x="345.496"
-         style="stroke-width:0.05136622">; print } ## hyphop ##</tspan>
-      <tspan
-         id="tspan1126"
-         style="fill:#666666;stroke-width:0.05136622"
-         dy="5.7948213"
-         x="345.496">__END__ geekcrypt USAGE</tspan>
-      <tspan
-         id="tspan1128"
-         style="fill:#666666;stroke-width:0.05136622"
-         dy="5.7948213"
-         x="345.496">./geekcrypt PLAIN_TEXT &gt;</tspan>
-      <tspan
-         id="tspan1130"
-         style="fill:#666666;stroke-width:0.05136622"
-         dy="5.7948213"
-         x="345.496">./geekcrypt -r &lt; CRYPTED</tspan>
-    </text>
   </g>
 </svg>
