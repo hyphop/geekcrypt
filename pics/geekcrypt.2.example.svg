@@ -42,8 +42,8 @@
      inkscape:window-height="1021"
      id="namedview20"
      showgrid="false"
-     inkscape:zoom="0.65532959"
-     inkscape:cx="278.48086"
+     inkscape:zoom="1.0943492"
+     inkscape:cx="224.11065"
      inkscape:cy="415.54921"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -56,12 +56,12 @@
   <image
      sodipodi:absref="/mnt/temp/githup/hyphop/geekcrypt/pics/no-print.gif"
      xlink:href="no-print.gif"
-     y="-2.9258695e-06"
-     x="5.5511151e-17"
-     id="image963"
-     preserveAspectRatio="none"
+     width="190.73628"
      height="193.49324"
-     width="190.73628" />
+     preserveAspectRatio="none"
+     id="image963"
+     x="5.5511151e-17"
+     y="-2.9258695e-06" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
@@ -87,12 +87,19 @@
     <image
        sodipodi:absref="/mnt/temp/githup/hyphop/geekcrypt/pics/geekcrypt.2.png"
        xlink:href="geekcrypt.2.png"
-       y="74.574883"
-       x="69.05999"
-       id="image972"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
+       width="73.933456"
        height="86.138062"
-       width="73.933456" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image972"
+       x="69.05999"
+       y="74.574883" />
+    <rect
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.28222221"
+       id="rect12"
+       width="22.952251"
+       height="8.7682753"
+       x="94.761787"
+       y="58.442951" />
   </g>
 </svg>
