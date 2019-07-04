@@ -85,12 +85,11 @@
          y="32.23534"
          style="fill:#ff2a2a;stroke-width:0.3310301">front side</tspan></text>
     <image
-       sodipodi:absref="/mnt/temp/githup/hyphop/geekcrypt/pics/geekcrypt.1.png"
+       sodipodi:absref="geekcrypt.1.png"
        xlink:href="geekcrypt.1.png"
        width="73.933456"
        height="73.933456"
        preserveAspectRatio="none"
-       style="image-rendering:optimizeSpeed"
        id="image972"
        x="69.05999"
        y="90.847694" />

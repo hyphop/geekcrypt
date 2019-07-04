@@ -59,11 +59,11 @@ Fork me on git*, and make your version of your unique opensource T-shirt.
 ### output Files
 
 + [text/crypt.txt](text/crypt.txt) - cool crypted text
-+ `pics/geekcrypt.1.svg` - front side
-+ `pics/geekcrypt.2.svg` - back side
++ [pics/geekcrypt.1.svg](pics/geekcrypt.1.png) - front side
++ [pics/geekcrypt.2.svg](pics/geekcrypt.2.png) - back side
 + `pics/geekcrypt.1.example.*` - front side example
 + `pics/geekcrypt.2.example.*` - back side example
-+ `pics/geekcrypt.example.*`   - both side example
++ [pics/geekcrypt.example.png](pics/geekcrypt.example.png) - both side example
 + [pics](pics) - other files
 
 ### files
