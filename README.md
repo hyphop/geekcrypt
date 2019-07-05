@@ -73,7 +73,8 @@ Fork me on git*, and make your version of your unique opensource T-shirt.
 + [text](text) - text files 
 + [text/front.txt](text/front.txt) - (non exist there before run `geekcrypt.decrypt`) or input your original plain text file ( 8 lines x 16 rows  = 128 bytes ) - sure u can chouse any size
 + [geekcrypt](geekcrypt) - encrypt / decrypt tool
-+ [geekcrypt.make](geekcrypt.make) - make all shell script
++ [tools/txt2svg](tools/txt2svg) - text 2 svg converter
++ [geekcrypt.make](geekcrypt.make) - make all - shell script
 + [geekcrypt.decrypt](geekcrypt.decrypt) - decrypt script
 + [README.md](README.md) - read me
 
@@ -117,7 +118,7 @@ decrypt mode
 
 ## Links
 
-+ https://git.io/fj6Cw	- this page short link 
++ https://git.io/fj6Cw	- this page short link | https://bit.ly/2JpS47V 
 + https://github.com/hyphop/geekcrypt - this page link
 
 ## Requires
