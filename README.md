@@ -12,7 +12,7 @@ Its a **FIRST REAL OPENSOURCE T-SHIRT**, read more about
 
 ## Art
 
-![geekcrypt - 1st opensource T-shirt](pics/geekcrypt.example.small.png)
+![geekcrypt - 1st opensource T-shirt](pics/geekcrypt.example.black.small.png)
 
 just 400 bytes of pure perl code, 16 lines x 25 rows! 
 
@@ -124,6 +124,8 @@ decrypt mode
 ## Requires
 
 `perl`, `sh`, `inkscape` | ImageMagick tools (`convert`)
+
+![geekcrypt - 1st opensource T-shirt](pics/geekcrypt.example.white.small.png)
 
 ## License
 

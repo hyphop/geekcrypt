@@ -1,0 +1,17 @@
+#!/usr/bin/perl
+
+## hyphop ##
+
+for (@ARGV) { 
+
+use Text::VimColor;
+my $syntax = Text::VimColor->new(
+    file     => $_,
+    filetype => 'perl',
+);
+
+# print $syntax->html;
+# print $syntax->xml;
+print $syntax->ansi;
+
+}
