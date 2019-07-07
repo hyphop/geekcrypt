@@ -10,9 +10,10 @@ Its not a sucks like other! not like just stupid texts like: admin, root@localho
 Its a **FIRST REAL OPENSOURCE T-SHIRT**, read more about
 [how-to build T-shirt from a scratch!](#how-to-build-opensource-t-shirt-from-a-scratch)
 
-## Art
+## Art - white on black
 
 ![geekcrypt - 1st opensource T-shirt](pics/geekcrypt.example.white.small.png)
+[black on white variant](#black-on-white-variant)
 
 just 400 bytes of pure perl code, 16 lines x 25 rows! 
 
