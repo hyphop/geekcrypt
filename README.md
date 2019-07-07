@@ -13,7 +13,7 @@ Its a **FIRST REAL OPENSOURCE T-SHIRT**, read more about
 ## Art - white on black
 
 ![geekcrypt - 1st opensource T-shirt](pics/geekcrypt.example.white.small.png)
-[black on white](#black-on-white)
+[black on white](#black-on-white-variant)
 
 just 400 bytes of pure perl code, 16 lines x 25 rows! 
 
