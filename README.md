@@ -125,6 +125,8 @@ decrypt mode
 
 `perl`, `sh`, `inkscape` | ImageMagick tools (`convert`)
 
+## black on white variant
+
 ![geekcrypt - 1st opensource T-shirt](pics/geekcrypt.example.black.small.png)
 
 ## License
